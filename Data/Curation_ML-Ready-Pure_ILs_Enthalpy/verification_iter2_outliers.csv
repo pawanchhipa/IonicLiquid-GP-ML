@@ -1,0 +1,2 @@
+component1,component1_smiles,Enthalpy_of_transition_or_fusion_kJ/mol,Predicted,GP_STD,Error,AbsError,APE%
+1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1.1,1.2142591889336423,0.05378766302442325,0.11425918893364218,0.11425918893364218,10.38719899396747

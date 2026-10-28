@@ -1,0 +1,7 @@
+Data/Combinatorial_IL_Database.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Density/density_all_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Density/density_convertible_units.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Density/density_binary_mixtures.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Density/density_unit_check_log.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Viscosity/viscosity_all_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/ILThermo/Viscosity/viscosity_convertible_units.csv filter=lfs diff=lfs merge=lfs -text

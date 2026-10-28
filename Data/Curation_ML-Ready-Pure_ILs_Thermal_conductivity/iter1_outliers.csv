@@ -1,0 +1,2 @@
+component1,component1_smiles,Temperature_K,Pressure_kPa,Thermal Conductivity_W/m/K,Predicted,GP_STD,Error,AbsError,APE%
+1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,303.15,101.325,0.18,0.18909992179911453,0.001825707994128117,0.009099921799114535,0.009099921799114535,5.055512110619186
