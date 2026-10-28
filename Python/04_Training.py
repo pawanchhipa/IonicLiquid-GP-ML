@@ -394,6 +394,13 @@ nAfter = len(mlDB)
 print(f'  Rows after removal           : {nAfter}')
 print(f'  Rows removed                 : {nBefore - nAfter}')
 
+# ---- Log to CSV ----
+if nDups > 0:
+    dupDF.to_csv(logPath, index=False)
+    print(f'  Conflict log saved           : {logPath} ({len(dupDF)} rows)')
+else:
+    print('  No conflicts found — no log written')
+
 # Stratify Y
 Y=numpy.log(mlDB.iloc[:,colProp].to_numpy('double').reshape(-1,1))
 #Check and deop if the value of property is not 0
